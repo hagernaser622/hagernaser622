@@ -1,76 +1,82 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:17112B,50:39246B,100:1677C8&height=190&section=header&text=HAGER%20NASER&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20TURNING%20DATA%20INTO%20INSIGHTS&descAlignY=60&descSize=13" width="100%"/>
+<img src="assets/space-banner.png" width="100%" />
+
+<br/>
+
+### ✦ Welcome to my little universe ✦
+
+**Junior Data Analyst | Business & Data Enthusiast**
+
+*Turning data into insights, finding stories behind numbers.*
+
+<br/>
 
 <a href="https://www.linkedin.com/in/hager-naser/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-2867B2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<br/><br/>
-
-### Turning data into insights.
-### Finding stories behind numbers.
-
-*Junior Data Analyst | Business Administration Background*
 
 </div>
 
 ---
 
-## ✦ TOOLKIT
+<h2 align="center">✦ MY TOOLKIT ✦</h2>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=excel,mysql,python,powerbi&theme=dark"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Power%20Query-4B2E83?style=flat-square"/>
-<img src="https://img.shields.io/badge/Power%20Pivot-5B3A9E?style=flat-square"/>
-<img src="https://img.shields.io/badge/DAX-2463A6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power_Query-5B3A9E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_Pivot-6941C6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DAX-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 </div>
 
-## ✦ SELECTED WORK
+---
+
+<h2 align="center">✦ EXPLORING DATA UNIVERSE ✦</h2>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### ◈ Sales Performance Analysis
+### 🌌 Sales Performance
 
-Exploring sales, revenue, and profitability trends through an interactive Power BI report.
+Power BI Dashboard
 
-`POWER BI` `DAX`
+Exploring revenue, sales and profitability trends.
 
-[View Project](https://github.com/hagernaser622/sales-performance-analysis)
+**Power BI · DAX**
+
+<sub>Repository coming soon</sub>
 
 </td>
-<td width="50%" valign="top">
 
-### ◈ COVID-19 Data Analysis
+<td width="50%" align="center">
 
-Exploring global COVID-19 patterns across countries and WHO regions.
+### 🪐 COVID-19 Analysis
 
-`EXCEL` `POWER QUERY` `POWER BI`
+Data Analysis Project
 
-[View Project](https://github.com/hagernaser622/covid-19-data-analysis)
+Exploring global patterns across countries and regions.
+
+**Excel · Power BI**
+
+<sub>Repository coming soon</sub>
 
 </td>
 </tr>
 </table>
 
-## ✦ CURRENTLY EXPLORING
+---
 
-`SQL` · `Python` · `Data Analysis` · `Data Storytelling`
-
-## ✦ GITHUB ACTIVITY
+<h2 align="center">✦ CURRENTLY EXPLORING ✦</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hagernaser622&show_icons=true&hide_border=true&bg_color=17112B&title_color=B69CFF&icon_color=55B8FF&text_color=E8E4F2&rank_icon=github"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hagernaser622&layout=compact&hide_border=true&bg_color=17112B&title_color=B69CFF&text_color=E8E4F2"/>
+`SQL` &nbsp; `Python` &nbsp; `Data Analysis`
 
 </div>
 
@@ -78,10 +84,12 @@ Exploring global COVID-19 patterns across countries and WHO regions.
 
 <div align="center">
 
-**Let's connect and make data meaningful.**
+### ✧ A little curiosity goes a long way ✧
 
-<a href="https://www.linkedin.com/in/hager-naser/">LINKEDIN</a>
+**One insight at a time.**
 
-<sub>One insight at a time.</sub>
+<a href="https://www.linkedin.com/in/hager-naser/">
+Connect with me on LinkedIn
+</a>
 
 </div>
