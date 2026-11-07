@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="./space-banner.png" width="100%" alt="Hager Naser - Data Analyst"/>
-
+<img src="https://raw.githubusercontent.com/hagernaser622/hagernaser622/main/space-banner.png" width="100%" alt="Hager Naser - Data Analyst"/>
 <br/>
 
 ### ✦ Welcome to my little universe ✦
