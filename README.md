@@ -64,7 +64,7 @@ Exploring global patterns across countries and regions.
 
 **Excel · Power BI**
 
-<sub>Repository coming soon</sub>
+<sub><a href="https://github.com/hagernaser622/covid-19-analysis">View Repository</a></sub>
 
 </td>
 </tr>
