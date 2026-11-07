@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./space-banner.png.png" width="100%" alt="Hager Naser - Data Analyst"/>
+<img src="./space-banner.png" width="100%" alt="Hager Naser - Data Analyst"/>
 
 <br/>
 
