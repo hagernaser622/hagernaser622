@@ -61,7 +61,7 @@ Data Analysis Project
 
 Exploring global patterns across countries and regions.
 
-**Excel · Power BI**
+**Python · Power BI**
 
 <sub><a href="https://github.com/hagernaser622/covid-19-analysis">View Repository</a></sub>
 
