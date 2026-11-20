@@ -76,7 +76,7 @@ Exploring revenue, sales and profitability trends.
 
 **Power BI · DAX**
 
-<sub>Repository coming soon</sub>
+<sub><a href="https://github.com/hagernaser622/sales-performance-dashboard">View Repository</a></sub>
 
 </td>
 
