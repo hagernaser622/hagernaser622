@@ -33,11 +33,38 @@
 
 </div>
 
----
-
-<h2 align="center">✦ EXPLORING DATA UNIVERSE ✦</h2>
+---<h2 align="center">✦ EXPLORING DATA UNIVERSE ✦</h2>
 
 <table>
+<tr>
+<td width="50%" align="center">
+
+### 🪐 COVID-19 Analysis
+
+Data Analysis Project
+
+Exploring global patterns across countries and regions.
+
+**Python · Power BI**
+
+<sub><a href="https://github.com/hagernaser622/covid-19-analysis">View Repository</a></sub>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🏨 P&K Select: Investment Strategy
+
+Power BI Dashboard
+
+Reviewing a hotel brand and choosing which investment projects to fund.
+
+**Power BI · DAX**
+
+<sub><a href="https://github.com/hagernaser622/pk-select-investment-strategy">View Repository</a></sub>
+
+</td>
+</tr>
 <tr>
 <td width="50%" align="center">
 
@@ -53,22 +80,11 @@ Exploring revenue, sales and profitability trends.
 
 </td>
 
-<td width="50%" align="center">
-
-### 🪐 COVID-19 Analysis
-
-Data Analysis Project
-
-Exploring global patterns across countries and regions.
-
-**Python · Power BI**
-
-<sub><a href="https://github.com/hagernaser622/covid-19-analysis">View Repository</a></sub>
-
-</td>
+<td width="50%"></td>
 </tr>
 </table>
 
+---
 ---
 
 <h2 align="center">✦ CURRENTLY EXPLORING ✦</h2>
