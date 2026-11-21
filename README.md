@@ -96,6 +96,21 @@ Tracking two years of sales across regions, channels and products.
 
 </td>
 </tr>
+<tr>
+<td colspan="2" align="center">
+
+### 🐍 E-commerce Sales Analysis
+
+Python Data Analysis Project
+
+Cleaning, exploring and visualising e-commerce orders.
+
+**Python · Pandas · Matplotlib · Seaborn**
+
+<sub><a href="https://github.com/hagernaser622/ecommerce-sales-analysis-python">View Repository</a></sub>
+
+</td>
+</tr>
 </table>
 
 ---
