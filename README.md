@@ -33,7 +33,9 @@
 
 </div>
 
----<h2 align="center">✦ EXPLORING DATA UNIVERSE ✦</h2>
+---
+
+<h2 align="center">✦ EXPLORING DATA UNIVERSE ✦</h2>
 
 <table>
 <tr>
@@ -80,11 +82,22 @@ Exploring revenue, sales and profitability trends.
 
 </td>
 
-<td width="50%"></td>
+<td width="50%" align="center">
+
+### 🛰️ Excel Sales Dashboard
+
+Excel Dashboard
+
+Tracking two years of sales across regions, channels and products.
+
+**Excel · Power Query · DAX**
+
+<sub><a href="https://github.com/hagernaser622/excel-sales-dashboard">View Repository</a></sub>
+
+</td>
 </tr>
 </table>
 
----
 ---
 
 <h2 align="center">✦ CURRENTLY EXPLORING ✦</h2>
